@@ -63,10 +63,3 @@ For other environments, you might need to adjust input and display functions.
 - Sound effects
 - Colorful console output
 
----
-
-## 📬 Connect
-
-Feel free to fork, star ⭐ or suggest improvements!
-
-Made with ❤️ by Sadia
